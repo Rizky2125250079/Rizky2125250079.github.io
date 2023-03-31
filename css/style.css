@@ -2,4 +2,39 @@
 .navbar-nav a:hover {
     color: #FFD700 !important;
   }
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+ 
+}
 
+
+@font-face{
+  font-family: 'Oswald', sans-serif !important;
+}
+
+h2 {
+  font-size: 62px;
+  line-height: 50px;
+
+}
+
+.onetxt:hover{
+  color: #FFD700;
+}
+
+
+.twotxt:hover{
+  color: #FFD700;
+}
+.threetxt:hover{
+  color: #FFD700;
+}
+.fourtxt:hover{
+  color: #FFD700;
+}
+.fivetxt:hover{
+  color: #FFD700;
+}
